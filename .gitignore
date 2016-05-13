@@ -1,0 +1,12 @@
+#ignore node_modules directory
+#ignore dotfiles in working directories (CSS, Javascript, IMG, Data)
+js/**/.*
+css/**/.*
+img/**/.*
+dep/**/.*
+conf/**/.*
+CGI-BIN/**/.*
+#ignore .DS_Store
+/**/.DS_Store
+/**/*.swp
+
